@@ -9,7 +9,7 @@ import {
   Header,
   Intro,
   Laurels,
-  Menu,
+  SpecialMenu,
 } from './containers';
 
 const App = () => {
@@ -18,7 +18,7 @@ const App = () => {
       <Navbar />
       <Header />
       <AboutUs />
-      <Menu />
+      <SpecialMenu />
       <Chef />
       <Intro />
       <Laurels />

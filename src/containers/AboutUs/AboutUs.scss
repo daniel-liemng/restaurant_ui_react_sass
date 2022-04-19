@@ -28,6 +28,10 @@
   align-items: flex-end;
 
   text-align: right;
+
+  img {
+    transform: rotate(180deg);
+  }
 }
 
 .app__about-content_knife {

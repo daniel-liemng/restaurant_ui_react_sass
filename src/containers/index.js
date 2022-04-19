@@ -6,6 +6,16 @@ import { default as Gallery } from './Gallery/Gallery';
 import { default as Header } from './Header/Header';
 import { default as Intro } from './Intro/Intro';
 import { default as Laurels } from './Laurels/Laurels';
-import { default as Menu } from './Menu/Menu';
+import { default as SpecialMenu } from './Menu/SpecialMenu';
 
-export { AboutUs, Chef, FindUs, Footer, Gallery, Header, Intro, Laurels, Menu };
+export {
+  AboutUs,
+  Chef,
+  FindUs,
+  Footer,
+  Gallery,
+  Header,
+  Intro,
+  Laurels,
+  SpecialMenu,
+};
