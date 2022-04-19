@@ -67,6 +67,10 @@
   border: none;
   outline: none;
   cursor: pointer;
+
+  &:hover {
+    background-color: v.$color-golden;
+  }
 }
 
 .p__cormorant {

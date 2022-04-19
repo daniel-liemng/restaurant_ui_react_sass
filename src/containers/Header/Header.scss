@@ -1,0 +1,14 @@
+@use '../../variables' as v;
+
+.app__header {
+  background-color: v.$color-black;
+}
+
+.app__header-h1 {
+  font-family: v.$font-base;
+  color: v.$color-golden;
+  letter-spacing: 0.04rem;
+  text-transform: uppercase;
+  line-height: 117px;
+  font-size: 90px;
+}
