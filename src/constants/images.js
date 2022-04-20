@@ -20,6 +20,7 @@ import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import G from '../assets/G.png';
 
+// eslint-disable-next-line import/no-anonymous-default-export
 export default {
   G,
   welcome,
